@@ -1,0 +1,507 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-72:12
+MERGED from [com.google.mlkit:text-recognition:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e533a1e1419bcc3008c7004030f790de/text-recognition-16.0.0-beta2/AndroidManifest.xml:2:1-7:12
+MERGED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:2:1-6:12
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:2:1-35:12
+MERGED from [:UnityAdsAndroidPlugin:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:2:1-11:12
+MERGED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:2:1-24:12
+MERGED from [:common:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:17.0.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/04bb1f3e4ad73130e447fc92c3897815/play-services-mlkit-text-recognition-17.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.mlkit:text-recognition-bundled-common:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/de3e40974b027a7341443e5ff42a8105/text-recognition-bundled-common-16.0.0-beta2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c7ef2c7ea825e31431522542b273c9b/play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/41208184856a4387f6f63a9e09f2764a/transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df70a67c2987054b8c64b63449c37c22/firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c8ef5d8ea683ef23ce1d7e729bb1896a/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ef4a3188e83e825b72ee2ce33e24f3a0/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-102
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:103-149
+	android:versionCode
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:150-190
+supports-screens
+ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-154
+MERGED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-70:19
+MERGED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-70:19
+MERGED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:5:2-61
+MERGED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:5:2-61
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:12:5-33:19
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:12:5-33:19
+MERGED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:12:5-22:19
+MERGED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:12:5-22:19
+MERGED from [:common:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:9:5-10:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c7ef2c7ea825e31431522542b273c9b/play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c7ef2c7ea825e31431522542b273c9b/play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ef4a3188e83e825b72ee2ce33e24f3a0/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ef4a3188e83e825b72ee2ce33e24f3a0/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:5:15-58
+	android:extractNativeLibs
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:icon
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+	android:banner
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:114-151
+	android:isGame
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:18-39
+uses-sdk
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.mlkit:text-recognition:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e533a1e1419bcc3008c7004030f790de/text-recognition-16.0.0-beta2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e533a1e1419bcc3008c7004030f790de/text-recognition-16.0.0-beta2/AndroidManifest.xml:5:5-44
+MERGED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:3:2-43
+MERGED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:3:2-43
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAdsAndroidPlugin:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/667ab3fdbf272abafc4d987f08307b17/UnityAdsAndroidPlugin/AndroidManifest.xml:7:5-9:41
+MERGED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:common:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:7:5-43
+MERGED from [:common:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c311749ec192028f6df6410475919636/common/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:17.0.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/04bb1f3e4ad73130e447fc92c3897815/play-services-mlkit-text-recognition-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:17.0.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/04bb1f3e4ad73130e447fc92c3897815/play-services-mlkit-text-recognition-17.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/de3e40974b027a7341443e5ff42a8105/text-recognition-bundled-common-16.0.0-beta2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:16.0.0-beta2] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/de3e40974b027a7341443e5ff42a8105/text-recognition-bundled-common-16.0.0-beta2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c7ef2c7ea825e31431522542b273c9b/play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c7ef2c7ea825e31431522542b273c9b/play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bbcbf6e10ae52a08d3f4cdfbe738c39d/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df8a19ef163eaa8f3d3c8f24458897fd/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/4527d81fa1dab2c4adef56282f6f51b4/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/41208184856a4387f6f63a9e09f2764a/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/41208184856a4387f6f63a9e09f2764a/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df70a67c2987054b8c64b63449c37c22/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/df70a67c2987054b8c64b63449c37c22/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c8ef5d8ea683ef23ce1d7e729bb1896a/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c8ef5d8ea683ef23ce1d7e729bb1896a/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/8bab031e716250a6a30588791dc60070/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b42ab30b982239949a81eb93ceae6c0b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7282e00d74c6a6acf53f4bfd68421266/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/73114719268a97e9fd391905563b2ee9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ef4a3188e83e825b72ee2ce33e24f3a0/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/ef4a3188e83e825b72ee2ce33e24f3a0/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		MERGED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:10:5-67
+MERGED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:9-56:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-51:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-86
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:27-83
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-55:40
+	android:value
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-57
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-66:37
+	android:value
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-56
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:9-69:68
+	android:value
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-42
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:4:2-98
+	tools:node
+		ADDED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:4:75-95
+	android:name
+		ADDED from [:NativeGallery:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/30e5775cad53afce9b1f85cfbf4e190d/NativeGallery/AndroidManifest.xml:4:19-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:9:22-76
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:13:9-17:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:16:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:15:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:17:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:14:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:18:9-22:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:21:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:20:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:19:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:23:9-27:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:26:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:24:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:28:9-32:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:30:13-170
+	android:theme
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:32:13-71
+	android:name
+		ADDED from [:UnityAds:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/b1118aa3f79366e0497e6617d8a6b855/UnityAds/AndroidManifest.xml:29:13-82
+uses-permission#com.android.vending.BILLING
+ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [:billing-3.0.3:] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/72e7a7b09a997d52641d3b5757791c7e/billing-3.0.3/AndroidManifest.xml:18:13-78
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:16.1.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/40d1e4a83e0d97ad7159ae172a856f24/play-services-mlkit-text-recognition-common-16.1.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.7.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/c54746c9b82a2b7517ec0800ae947858/vision-common-16.7.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.5.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/75587481becb4cdd5fc2074a5cd9f679/common-17.5.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/25f0e71bf732cf8088b688972ce84cbc/play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/e924e233d9881b3935a5b8f0b7370aae/play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/f3f47392feb000b09b17ab3a2c5b29ef/transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/suzykwak/.gradle/caches/transforms-2/files-2.1/9d4f2aab147a036249654df58fdf132a/transport-runtime-2.2.6/AndroidManifest.xml:33:13-132

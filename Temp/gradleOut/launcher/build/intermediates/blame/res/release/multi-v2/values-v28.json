@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "226"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "228"
+                    }
+                }
+            ]
+        }
+    ]
+}

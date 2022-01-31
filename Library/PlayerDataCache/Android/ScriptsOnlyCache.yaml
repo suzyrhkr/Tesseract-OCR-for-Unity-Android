@@ -4,6 +4,8 @@ ScriptsOnlyBuild:
     - TesseractDemoScript
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -602,12 +604,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Analytics.DataPrivacy.dll
     namespaceName: UnityEngine.Analytics
     className: DataPrivacyButton
-  - hash:
-      serializedVersion: 2
-      Hash: aeaa2c92e162730d98e59cdf24cd00d2
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraManagerScript
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f

@@ -1,0 +1,4 @@
+#Tue Feb 01 02:30:56 KST 2022
+base.0=/Users/suzykwak/Desktop/project/Tesseract-OCR-for-Unity-Android/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
